@@ -26,7 +26,7 @@ If (m + n) is odd, skip (m + n)/2 elements, then take the next smallest element 
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement Divide And Conquer
 Developed by: Sairam K
 Register Number:  212225240132
 */
